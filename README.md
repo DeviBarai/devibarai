@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **devibarai2000gmail.com**
 
+- 👨‍💻 My Next Step To Learn  **Python**
+
 
 
 <h3 align="right">Connect with me:</h3>
