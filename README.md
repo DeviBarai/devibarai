@@ -7,6 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devibarai&label=Profile%20views&color=0e75b6&style=flat" alt="devibarai" /> </p>
 
 
+- 📚  I have a Diploma in **Computer Enginnering**
 
 - 🌱 I’m currently learning **MVC**
 
