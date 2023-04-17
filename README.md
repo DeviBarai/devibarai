@@ -2,14 +2,14 @@
 )
 
 <h1 align="center">Hi 👋, I'm DeviBarai</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate .Net Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devibarai&label=Profile%20views&color=0e75b6&style=flat" alt="devibarai" /> </p>
 
 
 - 📚  I have a Diploma in **Computer Enginnering**
 
-- 🌱 I’m currently learning **MVC**
+- 🌱 I’m currently learning **MVC & Core**
 
 - 💬 Ask me about **.Net framework**
 
