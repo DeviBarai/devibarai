@@ -2,7 +2,7 @@
 )
 
 <h1 align="center">Hi 👋, I'm DeviBarai</h1>
-<h3 align="center">A passionate .Net Developer from India</h3>
+<h3 align="center">A passionate Full-Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devibarai&label=Profile%20views&color=0e75b6&style=flat" alt="devibarai" /> </p>
 
@@ -19,7 +19,7 @@
 
 
 
-<h3 align="right">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <img align="right" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="400"/>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/devi-barai-4b93201a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devi-barai-4b93201a0/" height="30" width="40" /></a>
