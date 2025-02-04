@@ -7,15 +7,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devibarai&label=Profile%20views&color=0e75b6&style=flat" alt="devibarai" /> </p>
 
 
-- 📚  I have a Diploma in **Computer Enginnering**
+- 📚  I have a BTech Degree in **Computer Enginnering**
 
-- 🌱 I’m currently learning **MVC & Core**
+- 🌱 I’m currently learning **MVC & Core Plus Angular**
 
 - 💬 Ask me about **.Net framework**
 
-- 📫 How to reach me **devibarai2000gmail.com**
+- 📫 How to reach me **devibarai2000gmail.com or https://www.linkedin.com/in/devi-barai/**
 
-- 👨‍💻 My Next Step To Learn  **Python**
+- 👨‍💻 My Next Step To Learn  **React & Angular**
 
 
 
